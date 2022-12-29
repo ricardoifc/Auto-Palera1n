@@ -1,9 +1,9 @@
 # Auto-Palera1n
 auto jailbreak using palera1n
 
-<h1>Instalação</h1>
+<h1>Instalación</h1>
 
-<h4>Funciona em qualquer distro linux baseada no <i><strong>Ubuntu 22.04</strong></i> pra cima de preferência <i><strong>Linux mint 21,</strong></i>  20.04 não é suportado!</h4>
+<h4>Funciona en cualquier distribución de Linux basada en <i><strong>Ubuntu 22.04</strong></i> arriba preferiblemente <i><strong>Linux mint 21,</strong></i>  20.04 No soportado!</h4>
 
 <pre>sudo apt install git -y</pre>
 
@@ -15,20 +15,20 @@ auto jailbreak using palera1n
 
 <pre>sudo bash jailbreak SUA_VERSAO_IOS</pre>
 
-<h4>Abra um novo terminal e digite:</h4>
+<h4>Abra una nueva terminal y escriba:</h4>
 
 <pre>sudo /sbin/usbmuxd -f -p</pre>
 
-<h4>Volte pro terminal onde você executou o Auto-Palera1n e digite:</h4>
+<h4>Regrese a la terminal donde ejecutó Auto-Palera1n y escriba:</h4>
 
 <pre>cd palera1n</pre>
 
 <pre>sudo ./palera1n.sh --tweaks SUA_VERSAO_IOS</pre>
 
-<h4>Caso queira remover o Jailbreak</h4>
+<h4>Si quieres eliminar el Jailbreak</h4>
 
-<pre>sudo ./palera1n.sh --restorerootfs SUA_VERSAO_IOS</pre>
+<pre>sudo ./palera1n.sh --restorerootfs SU_VERSION_IOS</pre>
 
-<p>Siga os procedimentos, quaisquer erro no programa entre em contato comigo via telegram <i>@joaoooo007</i></p>
+<p>Sigan los procedimientos, cualquier error en el programa contácteme vía telegram (Portugues) <i>@joaoooo007</i></p>
 
-<p>Obrigado!</p>
+<p>Gracias!</p>
