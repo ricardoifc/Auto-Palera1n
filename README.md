@@ -23,7 +23,7 @@ auto jailbreak using palera1n
 
 <pre>cd palera1n</pre>
 
-<pre>sudo ./palera1n.sh --tweaks SUA_VERSAO_IOS</pre>
+<pre>sudo ./palera1n.sh --tweaks SU_VERSION_IOS --semi-tethered</pre>
 
 <h4>Si quieres eliminar el Jailbreak</h4>
 
