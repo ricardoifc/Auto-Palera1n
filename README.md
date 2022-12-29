@@ -7,7 +7,7 @@ auto jailbreak using palera1n
 
 <pre>sudo apt install git -y</pre>
 
-<pre>git clone https://github.com/Cozmo007/Auto-Palera1n</pre>
+<pre>git clone https://github.com/ricardoifc/Auto-Palera1n</pre>
 
 <pre>cd Auto-Palera1n</pre>
 
